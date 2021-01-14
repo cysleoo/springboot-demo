@@ -1,0 +1,3 @@
+2020-08-18 18:01:06.595 [INFO ] org.springframework.boot.StartupInfoLogger.logStarting - Starting MavenApplicationTests on liusaisai.local with PID 15075 (started by ssliu in /Users/ssliu/personal/workspace/springboot-demo/maven)
+2020-08-18 18:01:06.601 [INFO ] org.springframework.boot.SpringApplication.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2020-08-18 18:01:07.696 [INFO ] org.springframework.boot.StartupInfoLogger.logStarted - Started MavenApplicationTests in 1.37 seconds (JVM running for 2.217)

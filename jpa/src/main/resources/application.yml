@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test-jpa?serverTimezone=CTT&useUnicode=true&characterEncoding=UTF-8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 12345
+  jpa:
+    show-sql: true
+    hibernate:
+#      程序启动时的操作
+      ddl-auto: update
+
+
